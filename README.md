@@ -6,3 +6,4 @@
 1 : 3 News Categorization ~ 4 Python for ML  
 2 : 5 Data Handling  
 3 : 6 Pandas  
+4 : 7 Visualization  
