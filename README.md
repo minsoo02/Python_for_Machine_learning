@@ -7,3 +7,4 @@
 2 : 5 Data Handling  
 3 : 6 Pandas  
 4 : 7 Visualization  
+5 : 8 Data Handling - Data Cleansing ~ 9  Data Handling - Kaggle
